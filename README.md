@@ -1,5 +1,16 @@
 # TweetClone
 
+## Aprendizados do projeto Angular
+
+1- Entender para que serve os arquivos dentro e fora da pasta src
+2- Estruturar um projeto Angular com boas práticas
+3- Funcionamento de um component
+4- Componentizar o Frontend
+5- Estilizar components com tailwindcss
+6- Criar components dinâmicos que recebem parâmetros
+7- Trabalahar com services
+8- Diretivas para trabalhar com lógica no HTML 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
